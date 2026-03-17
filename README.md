@@ -14,7 +14,9 @@
  - Data models, Enums, Helper methods.
 
 ## To run the project:
- - Run >> `flutter pub get`
+ - Install flutter extension on text editor: prefererrably vs code.
+ - Ensure installation was successful - by running `flutter doctor -v` to get the version.
+ - Run >> `flutter pub get` to download packages and dependencies listed in the `pubspec.yaml` file.
  - Run emulator: preferrably android emulator for this initial change as the design might be a litle off on browsers and other platforms.
    >> If on vs code: navigate to `view > command palette > flutter: launch emulator > choose preferred emulator`
  - Run >> `flutter run`
